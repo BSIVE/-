@@ -1,0 +1,11 @@
+public class Queue{
+	
+	private int _head; //用來標註頭的指標(指向第一筆資料)
+	private int _tail; //用來標註尾巴的指標(指向下一個要存放位置)
+	
+	
+	
+	public static void main(String[] args){
+		
+	}
+}
