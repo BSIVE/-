@@ -11,7 +11,7 @@ public class Node {
         this.data = data;
 
         // 初始化 Node 的 *next* 指標
-        this.next = null;
+        this.next = null
 		
 		this.prev = null;
 		
