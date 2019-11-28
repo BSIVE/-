@@ -1,4 +1,4 @@
-//Test
+
 public class Queue{
 	
 	private int _head; //用來標註頭的指標(指向第一筆資料)
