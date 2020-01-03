@@ -1,1 +1,13 @@
 //Hash
+public class Hash{
+  public class main{
+  
+  int data;
+  hash=(d*5)%15
+  
+  
+  
+  
+  }
+}
+
